@@ -1,0 +1,4 @@
+mkdir folder name
+cd foldername
+ls
+touch filename
